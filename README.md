@@ -1,0 +1,5 @@
+# RadialDistributionFunctionWithBoundary
+
+distributionFunction(xs,ys)のxs,ysにそれぞれ座標データを入れると動径分布関数が出てくる.
+オプションをすべてグローバル変数にしてるフシがあるので,暇なら書き直すかも
+boundaryオプションをTrueにすると,境界条件を考えた上での動径分布関数を求める
